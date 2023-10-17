@@ -1,11 +1,15 @@
 ﻿using System.Runtime.InteropServices;
 using ProjetoInicial.Models;
 
-// Pessoa objPessoa = new Pessoa(); // Instância class Pessoa
-// objPessoa.Nome = "Gubio";
-// objPessoa.Idade = 23;
-// objPessoa.Apresentar();
+/**********************************************************
+INSTANCIAÇÃO DE UMA CLASE EM C#
+Pessoa objPessoa = new Pessoa(); // Instância class Pessoa
+objPessoa.Nome = "Gubio";
+objPessoa.Idade = 23;
+objPessoa.Apresentar();
+***********************************************************/
 
+//CALCUDORA FUNÇÕES SIMPLES EM C#
 int x, y, operacao = 0;
 Calculadora calc = new Calculadora();
 
